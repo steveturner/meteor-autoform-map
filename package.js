@@ -1,6 +1,6 @@
 Package.describe({
-  name: 'yogiben:autoform-map',
-  summary: 'Edit location coordinates with autoForm',
+  name: 'steveturner:autoform-map',
+  summary: 'Edit location coordinates with autoForm and persist autocomplete address',
   version: '0.1.3',
   git: 'https://github.com/yogiben/meteor-autoform-map'
 });
